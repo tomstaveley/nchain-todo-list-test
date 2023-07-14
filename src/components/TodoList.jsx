@@ -25,7 +25,7 @@ function TodoList() {
           mt: 1.5,
           px: 2,
         }}>
-          Showing {sortedItems.length} tasks
+          Showing {sortedItems.length} task{sortedItems.length !== 1 ? 's' : ''}
         </Typography>
     </Box>
   );
