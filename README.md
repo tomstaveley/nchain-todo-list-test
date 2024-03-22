@@ -9,4 +9,4 @@ Simple todo list app for nChain technical test.
 
 ## Live demo
 
-Hosted version can be viewed [here](https://nchain-todo-list-test.vercel.app/).
+Hosted version can be viewed [here](https://tomstaveley-nchain-todo-list-test.vercel.app/).
